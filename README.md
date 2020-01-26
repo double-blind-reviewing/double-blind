@@ -17,6 +17,8 @@ with the program chair(s).
 
 | Conference | At least partial double-blind? | Double blind to accept? | CFP or similar |
 | :--        | :--: | :--:                    | :--           |
+|            |      |                         |               |
+| _fully double-blind conferences_ | | | | 
 | ASPLOS     | :heavy_check_mark:     | :heavy_check_mark:      | https://asplos-conference.org/submissions/ |
 | CCS        | :heavy_check_mark:     | :heavy_check_mark:      | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
 | ICSE       | :heavy_check_mark:     | :heavy_check_mark:      | https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A |
@@ -29,6 +31,9 @@ with the program chair(s).
 | OSDI       | :heavy_check_mark:     | :heavy_check_mark:      | https://www.usenix.org/conference/osdi20/call-for-papers |
 | SIGMOD     | :heavy_check_mark:     | :heavy_check_mark:      | https://sigmod2020.org/calls_papers_sigmod_research.shtml |
 | USENIX ATC | :heavy_check_mark:     | :heavy_check_mark:      | https://www.usenix.org/conference/atc20/call-for-papers |
+|            |      |                   |                                                         |
+| _partially double-blind conferences_ | | | |
+| NeurIPS    | blind for reviewers, not area chairs or program chair | | https://nips.cc/Conferences/2019/CallForPapers |
 |            |      |                   |                                                         |
 | _single-blind conferences_ | | | |
 | VLDB       |      |                         | https://vldb2020.org/submission-guidelines.html |
