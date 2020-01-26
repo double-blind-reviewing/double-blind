@@ -25,6 +25,7 @@ with the program chair(s).
 | SOSP       | :heavy_check_mark:     | :heavy_check_mark:      | https://sosp19.rcs.uwaterloo.ca/cfp.html |
 |            |      |                   |                                                         |
 | _pending verification of double blind-to-accept status_ | | | |
+| NSDI       | :heavy_check_mark:     | :heavy_check_mark:      | https://www.usenix.org/conference/nsdi20/call-for-papers |
 | OSDI       | :heavy_check_mark:     | :heavy_check_mark:      | https://www.usenix.org/conference/osdi20/call-for-papers |
 | SIGMOD     | :heavy_check_mark:     | :heavy_check_mark:      | https://sigmod2020.org/calls_papers_sigmod_research.shtml |
 | USENIX ATC | :heavy_check_mark:     | :heavy_check_mark:      | https://www.usenix.org/conference/atc20/call-for-papers |
