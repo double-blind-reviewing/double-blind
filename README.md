@@ -16,7 +16,7 @@ of double-blind to accept, this status has been verified personally
 with the program chair(s).
 
 | Conference | Partial double-blind? | Double blind to accept? | CFP or similar |
-| :--:       | :--: | :--:                    | :--:           |
+| :--        | :--: | :--:                    | :--           |
 | ASPLOS     |      | :heavy_check_mark:      | https://asplos-conference.org/submissions/ |
 | CCS        |      | :heavy_check_mark:      | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
 | OOPSLA     |      | :heavy_check_mark:      | https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers |
@@ -28,5 +28,6 @@ with the program chair(s).
 | SIGMOD     |      | :heavy_check_mark:      | https://sigmod2020.org/calls_papers_sigmod_research.shtml |
 | SOSP       |      | :heavy_check_mark:      | https://sosp19.rcs.uwaterloo.ca/cfp.html |
 | USENIX ATC |      | :heavy_check_mark:      | https://www.usenix.org/conference/atc20/call-for-papers |
+|            |      |                   |                                                         |
 | _single-blind conferences_ | | | |
 | VLDB       |      |                         | https://vldb2020.org/submission-guidelines.html |
