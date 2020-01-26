@@ -3,9 +3,9 @@
 This document lists computer science conferences and their status
 with respect to anonymity during the reviewing process.
 
-* "Partial double-blind" means that author identities and affiliations
-are revealed for all papers prior to the final decision, but not until
-after the submission of paper reviews.
+* "At least partially double-blind" means that author identities and
+affiliations are not revealed for papers prior to the submission of
+initial paper reviews.
 
 * "Double-blind to accept" means full double-blind reviewing, that is,
 where author identities and affiliations are not revealed before the
@@ -15,7 +15,7 @@ shepherding). In cases where the CFP does not explicitly state the use
 of double-blind to accept, this status has been verified personally
 with the program chair(s).
 
-| Conference | At least partial double-blind? | Double blind to accept? | CFP or similar |
+| Conference | At least partially double-blind? | Double blind to accept? | CFP or similar |
 | :--        | :--: | :--:                    | :--           |
 |            |      |                         |               |
 | _fully double-blind conferences_ | | | | 
