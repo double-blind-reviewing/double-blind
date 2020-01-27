@@ -57,4 +57,6 @@ with the program chair(s).
 
 * [**Effectiveness of Anonymization in Double-Blind Reviewing**](https://dl.acm.org/doi/10.1145/3208157), Le Goeues, Brun, Appel, Berger, Khurshid, Smaragdakis, Communications of the ACM, May 2018. [ArXiv link](https://arxiv.org/abs/1709.01609)
 
-* [**Improving Publication Quality by Reducing Bias with Double-Blind Reviewing and Author Response**](http://www.cs.utexas.edu/users/mckinley/papers/blind-2008.pdf), McKinley, 2008.
+* [**Improving Publication Quality by Reducing Bias with Double-Blind Reviewing and Author Response**](http://www.cs.utexas.edu/users/mckinley/papers/blind-2008.pdf), ACM SIGPLAN Notices, 43(8):5--9, McKinley, 2008.
+
+* [**More on Improving Reviewing Quality with Double-Blind Reviewing, External Review Committees, Author Response, and in Person Program Committee Meetings**](http://www.cs.utexas.edu/users/mckinley/notes/blind.html), McKinley, 2015.
