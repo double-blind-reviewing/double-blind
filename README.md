@@ -38,6 +38,7 @@ with the program chair(s).
 | USENIX ATC | :heavy_check_mark:     | :heavy_check_mark: | https://www.usenix.org/conference/atc20/call-for-papers |
 |            |      |                   |                                                         |
 | _pending verification of double blind-to-accept status_ | | | |
+| Oakland (IEEE S&P) | :heavy_check_mark:     | ? | https://www.ieee-security.org/TC/SP2020/cfpapers.html |
 | OSDI       | :heavy_check_mark:     | ? | https://www.usenix.org/conference/osdi20/call-for-papers |
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
