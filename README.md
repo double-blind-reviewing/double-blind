@@ -1,17 +1,19 @@
 # Computer science conferences - double-blind status
 
-This document lists major computer science conferences (currently
-defined as those listed in http://csrankings.org) and their status
-with respect to anonymity during the reviewing process.
+This document tracks the status of major computer science conferences
+(currently defined as those listed in http://csrankings.org) with
+respect to how they maintain anonymity during the reviewing process.
 
-* "Single-blind" means that author identities and affiliations are visible
+For the purposes of this document:
+
+* _Single-blind_ means that author identities and affiliations are visible
 to reviewers at all points during the reviewing process.
 
-* "At least partially double-blind" means that author identities and
+* _At least partially double-blind_ means that author identities and
 affiliations are not revealed for papers prior to the submission of
 initial paper reviews.
 
-* "Double-blind to accept" means full double-blind reviewing, that is,
+* _Double-blind to accept_ means full double-blind reviewing, that is,
 where author identities and affiliations are not revealed before the
 conclusion of the PC meeting, and only for accepted papers (including
 conditionally-accepted papers, pending modifications due to
@@ -42,3 +44,8 @@ with the program chair(s).
 |            |      |                   |                                                         |
 | _single-blind conferences_ | | | |
 | VLDB       |      |                         | https://vldb2020.org/submission-guidelines.html |
+
+## Resources related to double-blind reviewing
+
+* [**Effectiveness of Anonymization in Double-Blind Reviewing**](https://dl.acm.org/doi/10.1145/3208157), Le Goeues, Brun, Appel, Berger, Khurshid, Smaragdakis, Communications of the ACM, May 2018. [ArXiv link](https://arxiv.org/abs/1709.01609)
+
