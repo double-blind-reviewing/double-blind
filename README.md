@@ -28,6 +28,7 @@ with the program chair(s).
 | _fully double-blind conferences_ | 
 | ASPLOS     | :heavy_check_mark:     | :heavy_check_mark:      | https://asplos-conference.org/submissions/ |
 | CCS        | :heavy_check_mark:     | :heavy_check_mark:      | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
+| ICML       | :heavy_check_mark:     | :heavy_check_mark: | https://icml.cc/Conferences/2020/CallForPapers |
 | ICSE       | :heavy_check_mark:     | :heavy_check_mark:      | https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A |
 | NSDI       | :heavy_check_mark:     | :heavy_check_mark: | https://www.usenix.org/conference/nsdi20/call-for-papers |
 | OOPSLA     | :heavy_check_mark:     | :heavy_check_mark:      | https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers |
@@ -37,7 +38,6 @@ with the program chair(s).
 | USENIX ATC | :heavy_check_mark:     | :heavy_check_mark: | https://www.usenix.org/conference/atc20/call-for-papers |
 |            |      |                   |                                                         |
 | _pending verification of double blind-to-accept status_ | | | |
-| ICML       | :heavy_check_mark:     | ? | https://icml.cc/Conferences/2020/CallForPapers |
 | OSDI       | :heavy_check_mark:     | ? | https://www.usenix.org/conference/osdi20/call-for-papers |
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
