@@ -12,7 +12,7 @@ to reviewers at all points during the reviewing process.
 
 * _At least partially double-blind_ means that author identities and
 affiliations are not revealed for papers prior to the submission of
-initial paper reviews.
+_initial_ paper reviews.
 
 * _Fully double-blind_ means that "double-blind to accept" is employed.
 That is,
