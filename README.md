@@ -1,7 +1,10 @@
 # Computer science conferences - double-blind status
 
-This document lists computer science conferences and their status
+This document lists major computer science conferences and their status
 with respect to anonymity during the reviewing process.
+
+* "Single-blind" means that author identities and affiliations are visible
+to reviewers at all points during the reviewing process.
 
 * "At least partially double-blind" means that author identities and
 affiliations are not revealed for papers prior to the submission of
