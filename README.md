@@ -14,12 +14,13 @@ to reviewers at all points during the reviewing process.
 affiliations are not revealed for papers prior to the submission of
 initial paper reviews.
 
-* _Double-blind to accept_ means full double-blind reviewing, that is,
-where author identities and affiliations are not revealed before the
+* _Fully double-blind_ means that "double-blind to accept" is employed.
+That is,
+author identities and affiliations are not revealed until the
 conclusion of the PC meeting, and only for accepted papers (including
 conditionally-accepted papers, pending modifications due to
 shepherding). In cases where the CFP does not explicitly state the use
-of double-blind to accept, this status has been verified personally
+of double-blind to accept, this status has been verified directly
 with the program chair(s).
 
 | Conference | At least partially double-blind? | Double blind to accept? | CFP or similar |
