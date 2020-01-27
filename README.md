@@ -24,7 +24,7 @@ with the program chair(s).
 | Conference | At least partially double-blind? | Double blind to accept? | CFP or similar |
 | :--        | :--: | :--:                    | :--           |
 |            |      |                         |               |
-| <td colspan="4">_fully double-blind conferences_</td> | 
+| _fully double-blind conferences_ | 
 | ASPLOS     | :heavy_check_mark:     | :heavy_check_mark:      | https://asplos-conference.org/submissions/ |
 | CCS        | :heavy_check_mark:     | :heavy_check_mark:      | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
 | ICSE       | :heavy_check_mark:     | :heavy_check_mark:      | https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A |
