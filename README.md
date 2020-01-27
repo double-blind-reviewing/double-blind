@@ -14,20 +14,20 @@ to reviewers at all points during the reviewing process.
 affiliations are not revealed for papers prior to the submission of
 _initial_ paper reviews.
 
-* _Fully double-blind_ means that "double-blind to accept" is employed.
-That is,
-author identities and affiliations are not revealed until the
-conclusion of the PC meeting, and only for accepted papers (including
-conditionally-accepted papers, pending modifications due to
-shepherding). In cases where the CFP does not explicitly state the use
-of double-blind to accept, this status has been verified directly
+* _Fully double-blind_ means that "double-blind to accept" is
+employed.  That is, author identities and affiliations are not
+revealed until the conclusion of the PC meeting, and only for accepted
+papers (including conditionally-accepted papers, pending modifications
+due to shepherding). In cases where the CFP does not explicitly state
+the use of full double-blind reviewing, this status has been verified directly
 with the program chair(s).
 
-| Conference | At least partially double-blind? | Double blind to accept? | CFP or similar |
+| Conference | At least partially double-blind? | Fully double-blind (blind to accept)? | CFP or similar |
 | :--        | :--: | :--:                    | :--           |
 |            |      |                         |               |
 | _fully double-blind conferences_ | 
 | ASPLOS     | :heavy_check_mark:     | :heavy_check_mark:      | https://asplos-conference.org/submissions/ |
+| CAV        | :heavy_check_mark:     | :heavy_check_mark:      | http://i-cav.org/2020/call-for-papers/ |
 | CCS        | :heavy_check_mark:     | :heavy_check_mark:      | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
 | FSE        | :heavy_check_mark:     | :heavy_check_mark: | https://2020.esec-fse.org/track/fse-2020-papers |
 | ICML       | :heavy_check_mark:     | :heavy_check_mark: | https://icml.cc/Conferences/2020/CallForPapers |
