@@ -22,7 +22,7 @@ with the program chair(s).
 | ASPLOS     | :heavy_check_mark:     | :heavy_check_mark:      | https://asplos-conference.org/submissions/ |
 | CCS        | :heavy_check_mark:     | :heavy_check_mark:      | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
 | ICSE       | :heavy_check_mark:     | :heavy_check_mark:      | https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A |
-| NSDI       | :heavy_check_mark:     | ? | https://www.usenix.org/conference/nsdi20/call-for-papers |
+| NSDI       | :heavy_check_mark:     | :heavy_check_mark: | https://www.usenix.org/conference/nsdi20/call-for-papers |
 | OOPSLA     | :heavy_check_mark:     | :heavy_check_mark:      | https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers |
 | PLDI       | :heavy_check_mark:     | :heavy_check_mark:      | http://www.sigplan.org/sites/default/files/PracticesofPLDI.pdf, https://pldi20.sigplan.org/track/pldi-2020-papers#FAQ-on-Double-Blind-Reviewing |
 | SIGMOD     | :heavy_check_mark:     | :heavy_check_mark: | https://sigmod2020.org/calls_papers_sigmod_research.shtml |
