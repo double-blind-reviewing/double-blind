@@ -39,6 +39,8 @@ with the program chair(s).
 | USENIX ATC | :heavy_check_mark:     | :heavy_check_mark: | https://www.usenix.org/conference/atc20/call-for-papers |
 |            |      |                   |                                                         |
 | _pending verification of double blind-to-accept status_ | | | |
+| ISCA       | :heavy_check_mark:     | ? | https://www.iscaconf.org/isca2020/submit/guidelines.html |
+| MICRO      | :heavy_check_mark:     | ? | https://www.microarch.org/micro52/submit/guidelines.html |
 | OSDI       | :heavy_check_mark:     | ? | https://www.usenix.org/conference/osdi20/call-for-papers |
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
@@ -53,3 +55,4 @@ with the program chair(s).
 
 * [**Effectiveness of Anonymization in Double-Blind Reviewing**](https://dl.acm.org/doi/10.1145/3208157), Le Goeues, Brun, Appel, Berger, Khurshid, Smaragdakis, Communications of the ACM, May 2018. [ArXiv link](https://arxiv.org/abs/1709.01609)
 
+* [**Improving Publication Quality by Reducing Bias with Double-Blind Reviewing and Author Response**](http://www.cs.utexas.edu/users/mckinley/papers/blind-2008.pdf), McKinley, 2008.
