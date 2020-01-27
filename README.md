@@ -1,6 +1,7 @@
 # Computer science conferences - double-blind status
 
-This document lists major computer science conferences and their status
+This document lists major computer science conferences (currently
+defined as those listed in http://csrankings.org) and their status
 with respect to anonymity during the reviewing process.
 
 * "Single-blind" means that author identities and affiliations are visible
