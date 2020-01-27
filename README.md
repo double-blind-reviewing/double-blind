@@ -30,6 +30,7 @@ with the program chair(s).
 | CCS        | :heavy_check_mark:     | :heavy_check_mark:      | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
 | ICML       | :heavy_check_mark:     | :heavy_check_mark: | https://icml.cc/Conferences/2020/CallForPapers |
 | ICSE       | :heavy_check_mark:     | :heavy_check_mark:      | https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A |
+| ISCA       | :heavy_check_mark:     | :heavy_check_mark: | https://www.iscaconf.org/isca2020/submit/guidelines.html |
 | NSDI       | :heavy_check_mark:     | :heavy_check_mark: | https://www.usenix.org/conference/nsdi20/call-for-papers |
 | Oakland (IEEE S&P) | :heavy_check_mark: | :heavy_check_mark: | https://www.ieee-security.org/TC/SP2020/cfpapers.html |
 | OOPSLA     | :heavy_check_mark:     | :heavy_check_mark:      | https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers |
@@ -39,7 +40,6 @@ with the program chair(s).
 | USENIX ATC | :heavy_check_mark:     | :heavy_check_mark: | https://www.usenix.org/conference/atc20/call-for-papers |
 |            |      |                   |                                                         |
 | _pending verification of double blind-to-accept status_ | | | |
-| ISCA       | :heavy_check_mark:     | ? | https://www.iscaconf.org/isca2020/submit/guidelines.html |
 | MICRO      | :heavy_check_mark:     | ? | https://www.microarch.org/micro52/submit/guidelines.html |
 | OSDI       | :heavy_check_mark:     | ? | https://www.usenix.org/conference/osdi20/call-for-papers |
 |            |      |                   |                                                         |
