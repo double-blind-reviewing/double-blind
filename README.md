@@ -40,7 +40,9 @@ with the program chair(s).
 | OSDI       | :heavy_check_mark:     | ? | https://www.usenix.org/conference/osdi20/call-for-papers |
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
+| ICFP       | :heavy_check_mark: |  | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
 | NeurIPS    | blind for reviewers, not area chairs or program chair | | https://nips.cc/Conferences/2019/CallForPapers |
+| POPL       | :heavy_check_mark: |  | https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers |
 |            |      |                   |                                                         |
 | _single-blind conferences_ | | | |
 | VLDB       |      |                         | https://vldb2020.org/submission-guidelines.html |
