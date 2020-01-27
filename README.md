@@ -41,6 +41,7 @@ with the program chair(s).
 | USENIX ATC | :heavy_check_mark:     | :heavy_check_mark: | https://www.usenix.org/conference/atc20/call-for-papers |
 |            |      |                   |                                                         |
 | _pending verification of double blind-to-accept status_ | | | |
+| FSE        | :heavy_check_mark:     | ? | https://2020.esec-fse.org/track/fse-2020-papers |
 | MICRO      | :heavy_check_mark:     | ? | https://www.microarch.org/micro52/submit/guidelines.html |
 | OSDI       | :heavy_check_mark:     | ? | https://www.usenix.org/conference/osdi20/call-for-papers |
 |            |      |                   |                                                         |
