@@ -31,6 +31,7 @@ with the program chair(s).
 | ICML       | :heavy_check_mark:     | :heavy_check_mark: | https://icml.cc/Conferences/2020/CallForPapers |
 | ICSE       | :heavy_check_mark:     | :heavy_check_mark:      | https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A |
 | NSDI       | :heavy_check_mark:     | :heavy_check_mark: | https://www.usenix.org/conference/nsdi20/call-for-papers |
+| Oakland (IEEE S&P) | :heavy_check_mark: | :heavy_check_mark: | https://www.ieee-security.org/TC/SP2020/cfpapers.html |
 | OOPSLA     | :heavy_check_mark:     | :heavy_check_mark:      | https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers |
 | PLDI       | :heavy_check_mark:     | :heavy_check_mark:      | http://www.sigplan.org/sites/default/files/PracticesofPLDI.pdf, https://pldi20.sigplan.org/track/pldi-2020-papers#FAQ-on-Double-Blind-Reviewing |
 | SIGMOD     | :heavy_check_mark:     | :heavy_check_mark: | https://sigmod2020.org/calls_papers_sigmod_research.shtml |
@@ -38,7 +39,6 @@ with the program chair(s).
 | USENIX ATC | :heavy_check_mark:     | :heavy_check_mark: | https://www.usenix.org/conference/atc20/call-for-papers |
 |            |      |                   |                                                         |
 | _pending verification of double blind-to-accept status_ | | | |
-| Oakland (IEEE S&P) | :heavy_check_mark:     | ? | https://www.ieee-security.org/TC/SP2020/cfpapers.html |
 | OSDI       | :heavy_check_mark:     | ? | https://www.usenix.org/conference/osdi20/call-for-papers |
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
